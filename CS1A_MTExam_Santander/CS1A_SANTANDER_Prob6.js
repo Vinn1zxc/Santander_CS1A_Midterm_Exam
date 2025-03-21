@@ -1,4 +1,4 @@
-// groceryList.js
+// theGroceryList.js
 let createList = prompt("Do you want to create a grocery list? (y/n)");
 
 if (createList === "y") {

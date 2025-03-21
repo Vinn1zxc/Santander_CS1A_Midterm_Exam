@@ -1,4 +1,4 @@
-// userProfile
+// userProfile.js
 
 // Ask the user to enter their details
 let fullName = prompt("Enter your full name:");
